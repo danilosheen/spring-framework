@@ -1,11 +1,6 @@
 package com.example.project.dto;
 
 import com.example.project.entities.Game;
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.Objects;
 
